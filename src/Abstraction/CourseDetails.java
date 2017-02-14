@@ -8,6 +8,7 @@ public class CourseDetails extends CourseName implements CourseDuration {
 
 	}
 
+
 	@Override
 	public void Performance() {
 		System.out.println("Performance with C++");
