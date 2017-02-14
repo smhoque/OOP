@@ -5,5 +5,6 @@ public interface CourseDuration {
 	public abstract void QTP();
 	public abstract void Performance();
 	public abstract  void DBA();
+	public abstract  void android();
 
 }
